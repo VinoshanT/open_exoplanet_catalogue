@@ -1,7 +1,7 @@
 <system>
 	<name>HD 88133</name>
-	<rightascension>10 10 07</rightascension>
-	<declination>+18 11 12</declination>
+	<rightascension>10h10m07.68s</rightascension>
+	<declination>+18d11m12.7s</declination>
 	<distance>74.5</distance>
 	<star>
 		<mass>1.2</mass>
@@ -12,18 +12,18 @@
 		<magI>7.1</magI>
 		<magJ>6.60</magJ>
 		<magH>6.30</magH>
-		<magK>6.20</magK>
+		<magK>6.199</magK>
 		<metallicity>0.34</metallicity>
 		<spectraltype>G5 IV</spectraltype>
 		<planet>
 			<name>HD 88133 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.22</mass>
-			<period>3.416</period>
+			<period>3.4148674</period>
 			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.133</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<eccentricity>0.05</eccentricity>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>2016-10-13</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1550.6</temperature>
 		</planet>
