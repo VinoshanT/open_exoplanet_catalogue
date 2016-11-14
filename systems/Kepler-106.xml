@@ -55,14 +55,18 @@
 			<name>KOI-116 b</name>
 			<name>KIC 8395660 b</name>
 			<period>6.16486</period>
-			<radius errorminus="0.010024" errorplus="0.010024">0.074727</radius>
+			<radius errorminus="0.010024" errorplus="0.010024">0.073</radius>
 			<mass upperlimit="0.016672" />
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
-			<discoverymethod>transit</discoverymethod>
+			<lastupdate>2016-10-13</lastupdate>
+			<discoverymethod>Transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter>0.39</impactparameter>
+			<transittime>2454968.64035</transittime>
+			<declination>44.337555</declination>
+			<longitude>79.670749</longitude>
 		</planet>
 		<planet>
 			<name>Kepler-106 d</name>
