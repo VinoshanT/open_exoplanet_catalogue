@@ -43,5 +43,20 @@
 			<description>The planet candidate orbiting Rho Coronae Borealis was one of the first exoplanet discoveries, with a radial velocity minimum mass of 1.093 Jupiter masses. Subsequent analysis of the Hipparcos astrometric data indicates that the companion is actually a low-mass star in a nearly face-on orbit.</description>
 			<lastupdate>15/04/20</lastupdate>
 		</planet>
+		<planet>
+			<name>rho CrB c</name>
+			<periastron>190.0</periastron>
+			<eccentricity>0.052</eccentricity>
+			<name>rho CrB c</name>
+			<discoverymethod>Radial Velocity</discoverymethod>
+			<lastupdate>2016-10-27</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+			<period>102.54</period>
+			<semimajoraxis>0.4123</semimajoraxis>
+			<istransiting>0</istransiting>
+			<longitude>53.488729</longitude>
+			<temperature>448</temperature>
+			<declination>33.303509</declination>
+		</planet>
 	</star>
 </system>
