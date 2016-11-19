@@ -46,17 +46,17 @@
 		<planet>
 			<name>rho CrB c</name>
 			<periastron>190.0</periastron>
-			<eccentricity>0.052</eccentricity>
-			<name>rho CrB c</name>
+			<temperature>448</temperature>
+			<longitude>53.488729</longitude>
 			<discoverymethod>Radial Velocity</discoverymethod>
 			<lastupdate>2016-10-27</lastupdate>
+			<name>rho CrB c</name>
 			<discoveryyear>2016</discoveryyear>
-			<period>102.54</period>
 			<semimajoraxis>0.4123</semimajoraxis>
+			<eccentricity>0.052</eccentricity>
 			<istransiting>0</istransiting>
-			<longitude>53.488729</longitude>
-			<temperature>448</temperature>
 			<declination>33.303509</declination>
+			<period>102.54</period>
 		</planet>
 	</star>
 </system>
